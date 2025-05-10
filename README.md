@@ -11,8 +11,6 @@
 - Modified YOLOv10 with Ghost Convolutions  
 - Class-aware data augmentation to handle imbalance  
 - CLAHE and sharpening-based image preprocessing  
-- Designed with edge device compatibility in mind (e.g., Jetson Nano, Raspberry Pi 5)
-
 
 ## Notes
 
